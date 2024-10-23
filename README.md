@@ -1,2 +1,2 @@
-# chess_visualiser
+# chess visualiser
  
